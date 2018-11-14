@@ -1,0 +1,3 @@
+project=dice_roller_rb
+test=rspec
+template=erb
